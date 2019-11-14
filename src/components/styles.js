@@ -25,6 +25,13 @@ const style = StyleSheet.create({
         padding: 5,
         margin: 20,
     },
+    textInput2: {
+        borderColor: 'gray',
+        borderWidth: 2,
+        height: 40,
+        padding: 5,
+        margin: 20,
+    },
 });
 
 export {
