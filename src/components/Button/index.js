@@ -7,7 +7,7 @@ export default class ButtonComponent extends Component {
         return (
             <View>
                 <Button
-                    title="Button"
+                    title="Clickme"
                     onPress={() => Alert.alert('Button Pressed')}
                 />
             </View>
