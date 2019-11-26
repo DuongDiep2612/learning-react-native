@@ -22,6 +22,10 @@ export default class ButtonComponent extends Component {
                     title="Clickme4"
                     onPress={() => Alert.alert('Button 4 Pressed')}
                 />
+                <Button
+                    title="Clickme5"
+                    onPress={() => Alert.alert('Button 5 Pressed')}
+                />
             </View>
         );
     }
